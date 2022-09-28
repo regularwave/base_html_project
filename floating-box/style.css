@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+}
+
+.floatcontainer {
+    margin: auto;
+    max-width: 100%;
+    width: 400px;
+    border: 1px solid black;
+}
